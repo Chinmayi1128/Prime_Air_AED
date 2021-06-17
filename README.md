@@ -1,6 +1,8 @@
 # Prime_Air_AED
 Java Swing based application
 
+![prime_air](https://user-images.githubusercontent.com/78767545/122475992-77ae8400-cf93-11eb-9298-59adda8c1812.gif)
+
 # Problem Statement
 
 Airways are widely regarded as the quickest means of delivering services to various organizations.
